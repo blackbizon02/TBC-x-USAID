@@ -24,6 +24,8 @@
 
 - **HTML**
 - **vanilla CSS**
+  - **Flexbox**
+  - **CSS Grid Layout**
 - **vanilla js**
 
 --------
